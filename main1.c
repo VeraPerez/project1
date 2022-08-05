@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(){
-    printf("Lo que dicte tu corazón\n");
+    printf("La vida es bella\n");
     return(EXIT_SUCCESS);
 }
